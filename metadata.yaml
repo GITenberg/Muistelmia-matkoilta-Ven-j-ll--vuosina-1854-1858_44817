@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25127
     wikipedia: http://fi.wikipedia.org/wiki/August_Ahlqvist
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44817#Muistelmia-matkoilta-Ven-j-ll--vuosina-1854-1858
 gutenberg_issued: '2014-02-01'
 gutenberg_type: Text
 identifiers:
